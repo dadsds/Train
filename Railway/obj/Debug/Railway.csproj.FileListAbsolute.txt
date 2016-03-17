@@ -1,0 +1,6 @@
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\Railway\Railway\bin\Debug\Railway.exe.config
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\Railway\Railway\bin\Debug\Railway.exe
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\Railway\Railway\bin\Debug\Railway.pdb
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\Railway\Railway\obj\Debug\Railway.csprojResolveAssemblyReference.cache
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\Railway\Railway\obj\Debug\Railway.exe
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\Railway\Railway\obj\Debug\Railway.pdb

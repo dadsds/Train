@@ -1,6 +1,0 @@
-c:\users\lion\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe.config
-c:\users\lion\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
-c:\users\lion\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
-c:\users\lion\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
-c:\users\lion\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.exe
-c:\users\lion\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb
